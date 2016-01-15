@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[andrewlofthouse]]></title>
         <description><![CDATA[andrewlofthouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrewlofthouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 23:07:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 23:40:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewlofthouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65041ff7-f16c-4f6a-91f9-18d59a60b07f.jpg">]]></description>
-            <link>undefinedf69a9166-c7ae-4983-831b-fcbebbf4ce06/index.html</link>
+            <link>https://thegrid.ai/andrewlofthouse/f69a9166-c7ae-4983-831b-fcbebbf4ce06/index.html</link>
             <guid isPermaLink="false">f69a9166-c7ae-4983-831b-fcbebbf4ce06</guid>
-            <pubDate>Fri, 15 Jan 2016 23:07:29 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 23:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
