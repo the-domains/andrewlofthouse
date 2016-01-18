@@ -1,7 +1,7 @@
 name: andrewlofthouse
 favicon: null
 layout_spectrum: 0.91491
-typography_spectrum: 0.38457
+typography_spectrum: 0.62102
 title: andrew lofthouse photography
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6f656d'
     - '#8cc540'
   brandStrength: 0.625
-  lightness: 0.5
+  lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
