@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A wonderful, symmetrical design from BAC Mono.  One of my favourites blending paint and visible carbon in perfect amounts.  The symmetry is awesome as is the design, using the body lines to draw the eye across the car and back.  Love it!'
-datePublished: '2016-01-19T10:01:09.459Z'
+datePublished: '2016-01-19T10:01:09.463Z'
 dateModified: '2016-01-19T10:00:37.296Z'
 title: Orca by BAC Mono
 author: []
