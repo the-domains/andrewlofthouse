@@ -5,24 +5,32 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "This gallery captures my work whilst covering the opening round of the International GT Open race series.  The series takes in some of the finest circuits in the world as you will see from my other galleries.  Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly.  Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round.  It didn't disappoint!"
-datePublished: '2016-01-17T17:09:40.519Z'
-dateModified: '2016-01-17T17:04:01.308Z'
+description: "This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series.  The series takes in some of the finest circuits in the world as you will see from my other galleries.  Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly.  Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round.  It didn't disappoint!"
+datePublished: '2016-01-19T09:54:29.798Z'
+dateModified: '2016-01-19T09:54:22.321Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
+author: []
+sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
-published: true
 url: international-gt-open-2015-paul-ricard-france/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d985bfd-fd66-4125-87ea-45f0b446cd62.tif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db24518e-c410-46ce-a610-7d4ec9519aad.tif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fcc5b69-5bcd-4c02-9ef9-4f8a1198a299.tif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09588f7f-5ecd-4c12-9c28-a3a890f7091e.tif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a07778-427b-48cd-99af-5a0a65f81193.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5689a2e-bdf6-494e-9f70-2e83855d2ce9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae88c6a0-477b-4347-8b97-d78092607465.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a889713-ba51-4d93-8f5f-4eb6378d67fe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d360107c-6e13-4467-87fc-dc8f7a44ad4a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9f3a86c-9d43-4172-b30d-b1adf0d35eb0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99717c48-b68b-4101-bd61-9247ad81781f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00c5399a-ed55-4dd7-be7c-5be9f20ec1ba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a777deb-28d8-4b83-8953-0bdfee5c890c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d585252-3bfb-4707-ba7e-3e4f017a368d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b79648b3-fd16-45b7-bb46-edff18448bea.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7312e41-f008-448e-b53a-e82150617597.jpg)
