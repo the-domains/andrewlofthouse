@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series.  The series takes in some of the finest circuits in the world as you will see from my other galleries.  Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly.  Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round.  It didn't disappoint!"
-datePublished: '2016-01-19T09:54:29.798Z'
+datePublished: '2016-01-19T09:54:29.946Z'
 dateModified: '2016-01-19T09:54:22.321Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
