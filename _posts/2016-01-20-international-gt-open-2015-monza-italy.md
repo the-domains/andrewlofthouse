@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'From one epic, iconic circuit to another, Monza.  Nestled in a beautiful park this brutal, flat-out race track is a test of nerve.  Full throttle for the vast majority of the time strains the engines, the brakes get hammered too trying to slow the car down for tight chicanes and the infamous parabolica.  Steeped in history with the old banking still accessible, Monza is beautiful.  All that being said, from a photographers perspective, a difficult circuit to shoot as access is limited and you can see where you want to be but are unable to get there.'
-datePublished: '2016-01-20T15:24:38.235Z'
-dateModified: '2016-01-20T15:16:17.177Z'
+datePublished: '2016-01-20T16:00:59.021Z'
+dateModified: '2016-01-20T15:47:57.591Z'
 title: 'International GT Open 2015 - Monza, Italy'
 author: []
+sourcePath: _posts/2016-01-20-international-gt-open-2015-monza-italy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-international-gt-open-2015-monza-italy.md
-published: true
 url: international-gt-open-2015-monza-italy/index.html
 _type: Article
 
