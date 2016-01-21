@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This was my first time covering a 24 hour race and where better that the epic Spa-Francorchamps.  Shooting everything from the race car parade into Spa centre to the podium it was a challenge and and real rush at the same time.  As you would expect, the weather threw everything at us. Cold, rain, hail, sunshine, we had it all and got stuck in most of it!  The 24 hour part was toughest at about 05:00 some 15 hours in, but in reality it wasn't 24 hours for me, my 'shift' was closer to 38 hours and I loved every minute of it.  Hope you enjoy looking at some of my memories from that glorious weekend."
-datePublished: '2016-01-21T11:54:35.063Z'
+datePublished: '2016-01-21T11:54:35.134Z'
 dateModified: '2016-01-21T11:54:30.781Z'
 title: Blancpain Endurance Series - Total 24 Hours of Spa 2015
 author: []
