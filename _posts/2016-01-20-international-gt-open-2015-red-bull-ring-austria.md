@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Another first for me in 2015 and an incredible road trip from Salzburg through the mountains to Spielberg and the incredible Red Bull Ring.  By far the hottest weekend of the season and not just in terms of the weather, the action was fantastic and the facilities, well, the best I've been to.  The hosts were incredible, the reception, shop and media centre are all excpetional and the circuit was immaculate.  I am very much looking forward to a return to this fantastic, incredibly picturesque track. track"
-datePublished: '2016-01-20T13:31:09.534Z'
-dateModified: '2016-01-20T13:30:26.675Z'
+datePublished: '2016-01-21T16:58:12.801Z'
+dateModified: '2016-01-21T16:57:05.912Z'
 title: 'International GT Open 2015 - Red Bull Ring, Austria'
 author: []
 authors: []
