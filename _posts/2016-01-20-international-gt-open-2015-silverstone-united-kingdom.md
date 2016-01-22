@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'A return to my home circuit.  A track I have had the honour of photographing a number of times for various clients in British GT series, Blancpain and GT Cup Championship.  Silverstone is a fast circuit with iconic corners and instantly recognisable landmarks including the BRDC Club and The Wing .  Again, not only were we blessed with great racing, but also, a weekend of warm, dry weather.....perfect!'
-datePublished: '2016-01-21T08:37:19.886Z'
-dateModified: '2016-01-20T17:55:51.311Z'
+description: ''
+datePublished: '2016-01-22T17:08:38.496Z'
+dateModified: '2016-01-22T17:08:35.164Z'
 title: 'International GT Open 2015 - Silverstone, United Kingdom'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-silverstone-united-kingdom.md
@@ -22,6 +22,7 @@ url: international-gt-open-2015-silverstone-united-kingdom/index.html
 _type: Article
 
 ---
+## A return to my home circuit. A track I have had the honour of photographing a number of times for various clients in British GT series, Blancpain and GT Cup Championship. Silverstone is a fast circuit with iconic corners and instantly recognisable landmarks including the BRDC Club and The Wing . Again, not only were we blessed with great racing, but also, a weekend of warm, dry weather.....perfect!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d06731c4-7ca2-49a1-a8bf-994405a57632.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/178a17af-1fde-49d3-bef3-4c614ff5c41d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4302b464-755e-4768-a26d-26827294ddf2.jpg)
