@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series.  The series takes in some of the finest circuits in the world as you will see from my other galleries.  Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly.  Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round.  It didn't disappoint!"
-datePublished: '2016-01-20T11:26:08.002Z'
-dateModified: '2016-01-20T11:26:04.073Z'
+description: ''
+datePublished: '2016-01-22T17:10:02.222Z'
+dateModified: '2016-01-22T17:09:57.967Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
 sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
@@ -22,6 +22,7 @@ url: international-gt-open-2015-paul-ricard-france/index.html
 _type: Article
 
 ---
+## This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series. The series takes in some of the finest circuits in the world as you will see from my other galleries. Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly. Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round. It didn't disappoint!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a07778-427b-48cd-99af-5a0a65f81193.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5689a2e-bdf6-494e-9f70-2e83855d2ce9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae88c6a0-477b-4347-8b97-d78092607465.jpg)
