@@ -5,23 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Another first for me in 2015 and an incredible road trip from Salzburg through the mountains to Spielberg and the incredible Red Bull Ring.  By far the hottest weekend of the season and not just in terms of the weather, the action was fantastic and the facilities, well, the best I've been to.  The hosts were incredible, the reception, shop and media centre are all excpetional and the circuit was immaculate.  I am very much looking forward to a return to this fantastic, incredibly picturesque track. track"
-datePublished: '2016-01-21T18:17:25.653Z'
-dateModified: '2016-01-21T18:17:03.370Z'
+description: ''
+datePublished: '2016-01-22T17:08:01.245Z'
+dateModified: '2016-01-22T17:07:55.864Z'
 title: 'International GT Open 2015 - Red Bull Ring, Austria'
 author: []
+sourcePath: _posts/2016-01-20-international-gt-open-2015-red-bull-ring-austria.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-international-gt-open-2015-red-bull-ring-austria.md
-published: true
 url: international-gt-open-2015-red-bull-ring-austria/index.html
 _type: Article
 
 ---
+## Another first for me in 2015 and an incredible road trip from Salzburg through the mountains to Spielberg and the incredible Red Bull Ring. By far the hottest weekend of the season and not just in terms of the weather, the action was fantastic and the facilities, well, the best I've been to. The hosts were incredible, the reception, shop and media centre are all excpetional and the circuit was immaculate. I am very much looking forward to a return to this fantastic, incredibly picturesque track.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddfbf8a-56b6-4b3c-938c-6a842ee06cd5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81c41f92-a139-4cdb-97e4-2743877ffc98.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c48f1258-ae36-4743-a9e1-7a38a205e7f3.jpg)
