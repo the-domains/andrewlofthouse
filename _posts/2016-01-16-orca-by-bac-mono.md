@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T16:06:25.700Z'
-dateModified: '2016-01-22T16:06:04.233Z'
+datePublished: '2016-01-22T17:10:58.427Z'
+dateModified: '2016-01-22T17:10:21.782Z'
 title: Orca by BAC Mono
 author: []
 sourcePath: _posts/2016-01-16-orca-by-bac-mono.md
