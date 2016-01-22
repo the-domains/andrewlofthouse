@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:05:18.650Z'
-dateModified: '2016-01-22T17:05:14.536Z'
+datePublished: '2016-01-22T17:07:13.011Z'
+dateModified: '2016-01-22T17:07:04.122Z'
 title: Blancpain Endurance Series - Total 24 Hours of Spa 2015
 author: []
 sourcePath: _posts/2016-01-20-blancpain-endurance-series-total-24-hours-of-spa-2015.md
