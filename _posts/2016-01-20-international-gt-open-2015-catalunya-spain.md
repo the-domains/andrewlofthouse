@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:04:55.223Z'
+datePublished: '2016-01-22T17:04:55.466Z'
 dateModified: '2016-01-22T17:04:52.325Z'
 title: 'International GT Open 2015 - Catalunya, Spain'
 author: []
