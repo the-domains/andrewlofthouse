@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'From one epic, iconic circuit to another, Monza.  Nestled in a beautiful park this brutal, flat-out race track is a test of nerve.  Full throttle for the vast majority of the time strains the engines, the brakes get hammered too trying to slow the car down for tight chicanes and the infamous parabolica.  Steeped in history with the old banking still accessible, Monza is beautiful.  All that being said, from a photographers perspective, a difficult circuit to shoot as access is limited and you can see where you want to be but are unable to get there.'
-datePublished: '2016-01-20T16:00:59.439Z'
-dateModified: '2016-01-20T15:47:57.591Z'
+description: ''
+datePublished: '2016-01-22T17:06:01.918Z'
+dateModified: '2016-01-22T17:05:59.229Z'
 title: 'International GT Open 2015 - Monza, Italy'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-monza-italy.md
@@ -22,6 +22,7 @@ url: international-gt-open-2015-monza-italy/index.html
 _type: Article
 
 ---
+## From one epic, iconic circuit to another, Monza. Nestled in a beautiful park this brutal, flat-out race track is a test of nerve. Full throttle for the vast majority of the time strains the engines, the brakes get hammered too trying to slow the car down for tight chicanes and the infamous parabolica. Steeped in history with the old banking still accessible, Monza is beautiful. All that being said, from a photographers perspective, a difficult circuit to shoot as access is limited and you can see where you want to be but are unable to get there.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f337d05a-3718-4854-b167-75b20c7fff88.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7755ddc-b97a-42a4-a040-bc535b1fcd5a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd014ae-2139-46fc-bbf7-ac00b204cc26.jpg)
