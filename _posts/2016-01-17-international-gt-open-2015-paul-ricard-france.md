@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:10:02.564Z'
+datePublished: '2016-01-22T17:10:02.944Z'
 dateModified: '2016-01-22T17:09:57.967Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
