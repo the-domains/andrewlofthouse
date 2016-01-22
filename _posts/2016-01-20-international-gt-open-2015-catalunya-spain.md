@@ -5,23 +5,24 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Another 'first' for me in 2015 and what a way to end an incredible season, the championship decider at the last weekend and my team in second with a chance to clinch the title.  The late Autumn weather spoiled us with warmth and sunshine and the circuit didn't fail to deliver.  Similar in style to Estoril, Catalunya is fantastic to shoot and with the addition of inner and outer service roads that I was allowed to drive on, this was an absolute pleasure of a job!"
-datePublished: '2016-01-20T16:00:46.199Z'
-dateModified: '2016-01-20T16:00:37.327Z'
+description: ''
+datePublished: '2016-01-22T17:04:55.223Z'
+dateModified: '2016-01-22T17:04:52.325Z'
 title: 'International GT Open 2015 - Catalunya, Spain'
 author: []
+sourcePath: _posts/2016-01-20-international-gt-open-2015-catalunya-spain.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-international-gt-open-2015-catalunya-spain.md
-published: true
 url: international-gt-open-2015-catalunya-spain/index.html
 _type: Article
 
 ---
+## Another 'first' for me in 2015 and what a way to end an incredible season, the championship decider at the last weekend and my team in second with a chance to clinch the title. The late Autumn weather spoiled us with warmth and sunshine and the circuit didn't fail to deliver. Similar in style to Estoril, Catalunya is fantastic to shoot and with the addition of inner and outer service roads that I was allowed to drive on, this was an absolute pleasure of a job!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d6d98af-4b40-48ae-a403-bc7eba0a4a96.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e7aa94f-bdad-4e98-a0a9-1527127584ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/487a7949-052c-498d-8dec-10f2dcd4311d.jpg)
