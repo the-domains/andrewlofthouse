@@ -1,27 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "How many words can describe this place?  Legendary, frightening, awesome, fast, beautiful, HUGE!  Let's not forget the fact that the weather does what it wants, when it wants!  Spa is sensational to shoot, the racing is always top quality and I love coming back here time and again.  There is a special feel about the place and you can't help but think of the history, the landscape and how much your feet are going to ache at the end of the weekend!"
-datePublished: '2016-01-20T14:08:22.012Z'
-dateModified: '2016-01-20T14:08:09.318Z'
+description: ''
+datePublished: '2016-01-22T17:06:44.529Z'
+dateModified: '2016-01-22T17:06:40.895Z'
 title: 'International GT Open 2015 - Spa-Francorchamps, Belgium'
 author: []
+sourcePath: _posts/2016-01-20-international-gt-open-2015-spa-francorchamps-belgium.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-international-gt-open-2015-spa-francorchamps-belgium.md
-published: true
 url: international-gt-open-2015-spa-francorchamps-belgium/index.html
 _type: Article
 
 ---
+## How many words can describe this place? Legendary, frightening, awesome, fast, beautiful, HUGE! Let's not forget the fact that the weather does what it wants, when it wants! Spa is sensational to shoot, the racing is always top quality and I love coming back here time and again. There is a special feel about the place and you can't help but think of the history, the landscape and how much your feet are going to ache at the end of the weekend!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0011b7a8-d147-42b4-9d9d-a8daf046ee44.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e148ad92-8809-4b09-bacc-f751385dba4e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65fbc569-e012-4b55-a2f5-a7bc9dcf0198.jpg)
