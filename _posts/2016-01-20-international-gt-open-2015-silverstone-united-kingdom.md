@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:08:39.229Z'
+datePublished: '2016-01-22T17:08:39.178Z'
 dateModified: '2016-01-22T17:08:35.164Z'
 title: 'International GT Open 2015 - Silverstone, United Kingdom'
 author: []
