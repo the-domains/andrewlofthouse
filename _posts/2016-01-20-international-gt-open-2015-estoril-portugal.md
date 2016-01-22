@@ -1,27 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Arriving at Estoril for the first time is quite special.  Having watched F1 as a child there was something captivating about the circuit, maybe the elevation changes or the variety of corners, maybe the stunning backdrop, more than likely the combination of all of that.  Estoril is in a beautiful part of the world, the weather was spectacular, the crowd fantastic and the racing, even better!'
-datePublished: '2016-01-20T11:25:49.147Z'
-dateModified: '2016-01-20T11:25:33.608Z'
+datePublished: '2016-01-22T17:09:17.052Z'
+dateModified: '2016-01-22T17:09:12.216Z'
 title: 'International GT Open 2015 - Estoril, Portugal'
 author: []
+sourcePath: _posts/2016-01-20-international-gt-open-2015-estoril-portugal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-international-gt-open-2015-estoril-portugal.md
-published: true
 url: international-gt-open-2015-estoril-portugal/index.html
 _type: Article
 
 ---
+## Arriving at Estoril for the first time is quite special. Having watched F1 as a child there was something captivating about the circuit, maybe the elevation changes or the variety of corners, maybe the stunning backdrop, more than likely the combination of all of that. Estoril is in a beautiful part of the world, the weather was spectacular, the crowd fantastic and the racing, even better!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c51d073-2fc5-49e4-8d5d-0074f7e0243a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/201be18b-5e1c-45f9-be63-177e8ea82725.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/035ec1b7-ee8b-447f-953a-2afa1b1e4d03.jpg)
