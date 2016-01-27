@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:47:46.369Z'
-dateModified: '2016-01-27T10:47:43.289Z'
+datePublished: '2016-01-27T10:48:05.385Z'
+dateModified: '2016-01-27T10:47:58.467Z'
 title: 'International GT Open 2015 - Red Bull Ring, Austria'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-red-bull-ring-austria.md
