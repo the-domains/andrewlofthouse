@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:46:55.736Z'
-dateModified: '2016-01-27T10:46:49.641Z'
+datePublished: '2016-01-27T10:53:24.849Z'
+dateModified: '2016-01-27T10:53:21.042Z'
 title: 'International GT Open 2015 - Spa-Francorchamps, Belgium'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-spa-francorchamps-belgium.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 How many words can describe this place? Legendary, frightening, awesome, fast, beautiful, HUGE! Let's not forget the fact that the weather does what it wants, when it wants! Spa is sensational to shoot, the racing is always top quality and I love coming back here time and again. There is a special feel about the place and you can't help but think of the history, the landscape and how much your feet are going to ache at the end of the weekend!
+
+[http://www.spa-francorchamps.be/en/][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0011b7a8-d147-42b4-9d9d-a8daf046ee44.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e148ad92-8809-4b09-bacc-f751385dba4e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65fbc569-e012-4b55-a2f5-a7bc9dcf0198.jpg)
@@ -39,3 +41,5 @@ How many words can describe this place? Legendary, frightening, awesome, fast, b
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4f82d5-eecb-479c-a2ba-ae407c3a9ce2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79eb4bd1-d66b-4fe2-8bbe-9a1f75237148.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f3955e0-892c-4a10-9c2b-a933f057547b.jpg)
+
+[0]: http://www.spa-francorchamps.be/en/
