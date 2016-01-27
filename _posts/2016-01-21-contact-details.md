@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T23:00:00.333Z'
-dateModified: '2016-01-22T18:37:23.961Z'
+datePublished: '2016-01-27T10:38:54.506Z'
+dateModified: '2016-01-27T10:38:53.396Z'
 title: "Contact details, For all enquiries please don't hesitate to contact me on:"
 author: []
 sourcePath: _posts/2016-01-21-contact-details.md
@@ -22,8 +22,8 @@ url: contact-details/index.html
 _type: Article
 
 ---
-## Email - andrew.lofthouse@sky.com
+Email - andrew.lofthouse@sky.com
 
-## Mobile - +44 7905 295994
+Mobile - +44 7905 295994
 
-## Twitter - @LofthouseAndrew
+Twitter - @LofthouseAndrew
