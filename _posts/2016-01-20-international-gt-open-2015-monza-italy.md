@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:52:40.920Z'
+datePublished: '2016-01-27T10:52:40.723Z'
 dateModified: '2016-01-27T10:52:36.910Z'
 title: 'International GT Open 2015 - Monza, Italy'
 author: []
