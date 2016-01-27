@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:45:10.902Z'
-dateModified: '2016-01-27T10:44:48.803Z'
+datePublished: '2016-01-27T10:51:48.166Z'
+dateModified: '2016-01-27T10:51:30.463Z'
 title: 'International GT Open 2015 - Catalunya, Spain'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-catalunya-spain.md
