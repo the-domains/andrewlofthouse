@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:57:05.082Z'
-dateModified: '2016-01-27T10:56:57.860Z'
+datePublished: '2016-01-27T11:01:44.865Z'
+dateModified: '2016-01-27T11:01:40.174Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
 sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
@@ -22,7 +22,9 @@ url: international-gt-open-2015-paul-ricard-france/index.html
 _type: Article
 
 ---
-This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series. The series takes in some of the finest circuits in the world as you will see from my other galleries. Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable run-off areas designed to slow cars down quickly. Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round. It didn't disappoint!
+This gallery captures a small amount of my work whilst covering the opening round of the International GT Open race series. The series takes in some of the finest circuits in the world as you will see from my other galleries. 
+
+Paul Ricard is a very special place with a crazy number of track configurations, a huge straight, innovative run-off areas and instantly recognisable stripes designed to slow cars down quickly. Nestled on the south coast a short drive from the Cote D'Azur, Nice and Monaco, the weather was superb and perfect for the opening round. It didn't disappoint!
 
 [http://www.circuitpaulricard.com/][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a07778-427b-48cd-99af-5a0a65f81193.jpg)
