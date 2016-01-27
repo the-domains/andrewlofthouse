@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:48:05.532Z'
-dateModified: '2016-01-27T10:47:58.467Z'
+datePublished: '2016-01-27T10:54:24.564Z'
+dateModified: '2016-01-27T10:54:21.488Z'
 title: 'International GT Open 2015 - Red Bull Ring, Austria'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-red-bull-ring-austria.md
@@ -25,6 +25,8 @@ _type: Article
 Another first for me in 2015 and an incredible road trip from Salzburg through the mountains to Spielberg and the incredible Red Bull Ring. By far the hottest weekend of the season and not just in terms of the weather, the action was fantastic and the facilities, well, the best I've been to. 
 
 The hosts were incredible, the reception, shop and media centre are all exceptional and the circuit was immaculate. I am very much looking forward to a return to this fantastic, incredibly picturesque track.
+
+[https://www.projekt-spielberg.com/en/the-spielberg/red-bull-ring][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddfbf8a-56b6-4b3c-938c-6a842ee06cd5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81c41f92-a139-4cdb-97e4-2743877ffc98.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c48f1258-ae36-4743-a9e1-7a38a205e7f3.jpg)
@@ -39,3 +41,5 @@ The hosts were incredible, the reception, shop and media centre are all exceptio
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c430bc-215e-44ac-8d65-e5bc30ee28dd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed4d2de2-62b7-4082-adfd-1ad46888de7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a83a15c-df63-47a1-93eb-d60843ff8688.jpg)
+
+[0]: https://www.projekt-spielberg.com/en/the-spielberg/red-bull-ring
