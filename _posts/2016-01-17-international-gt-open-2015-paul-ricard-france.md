@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:56:42.375Z'
-dateModified: '2016-01-27T10:56:37.433Z'
+datePublished: '2016-01-27T10:57:04.833Z'
+dateModified: '2016-01-27T10:56:57.860Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
 sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
