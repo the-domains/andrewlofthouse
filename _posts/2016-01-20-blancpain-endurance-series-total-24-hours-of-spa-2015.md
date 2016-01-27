@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:10:43.023Z'
-dateModified: '2016-01-22T17:10:38.445Z'
+datePublished: '2016-01-27T10:44:27.968Z'
+dateModified: '2016-01-27T10:44:24.210Z'
 title: Blancpain Endurance Series - Total 24 Hours of Spa 2015
 author: []
 sourcePath: _posts/2016-01-20-blancpain-endurance-series-total-24-hours-of-spa-2015.md
@@ -22,7 +22,7 @@ url: blancpain-endurance-series-total-24-hours-of-spa-2015/index.html
 _type: Article
 
 ---
-## This was my first time covering a 24 hour race and where better that the epic Spa-Francorchamps. Shooting everything from the race car parade into Spa centre to the podium it was a challenge and and real rush at the same time. As you would expect, the weather threw everything at us. Cold, rain, hail, sunshine, we had it all and got stuck in most of it! The 24 hour part was toughest at about 05:00 some 15 hours in, but in reality it wasn't 24 hours for me, my 'shift' was closer to 38 hours and I loved every minute of it. Hope you enjoy looking at some of my memories from that glorious weekend.
+This was my first time covering a 24 hour race and where better that the epic Spa-Francorchamps.  Shooting everything from the race car parade into Spa centre to the podium it was a challenge and and real rush at the same time. As you would expect, the weather threw everything at us. Cold, rain, hail, sunshine, we had it all and got stuck in most of it! The 24 hour part was toughest at about 05:00 some 15 hours in, but in reality it wasn't 24 hours for me, my 'shift' was closer to 38 hours and I loved every minute of it. Hope you enjoy looking at some of my memories from that glorious weekend.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45bb61af-3a43-441b-b3d4-93fa6c8364b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7839ddb1-238d-49be-8059-508e14d8b570.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f59ec9-c2d1-4e90-99ce-b542b305ab50.jpg)
