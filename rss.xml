@@ -4,8 +4,15 @@
         <description><![CDATA[andrew lofthouse photography]]></description>
         <link>http://www.andrewlofthouse.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 10:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 15:41:06 GMT</lastBuildDate>
         <atom:link href="http://www.andrewlofthouse.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blancpain Endurance Series 2015 - Silverstone]]></title>
+            <description><![CDATA[<article><h1>Blancpain Endurance Series 2015 - Silverstone</h1><p>I was asked to cover the event for the Sean Edwards Foundation, a fantastic charity established to challenge and improve driver standards and circuit safety in memory of Sean who's life and career was cut too short.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca5bed6f0f62f7ca71cf1a71629bfc9176539154.jpg"></article>]]></description>
+            <link>http://www.andrewlofthouse.com/blancpain-endurance-series-2015-silverstone/index.html</link>
+            <guid isPermaLink="false">9e0e8d86-f95c-43b1-83ff-3f2d13e6d77a</guid>
+            <pubDate>Sat, 30 Jan 2016 15:38:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deadmau5 by BAC Mono]]></title>
             <description><![CDATA[<article><h1>Deadmau5 by BAC Mono</h1><p>An asymmetrical design created for a truly creative individual who loves his cars.  Presented to him at Jay Leno's Garage, this masterpiece really showcases what is possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba4424bd6e008db3a647f9afd92b8714ed4fdf5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.andrewlofthouse.com/international-gt-open-2015-catalunya-spain/index.html</link>
             <guid isPermaLink="false">3407287a-7572-4404-8b61-87ae6a48a8b9</guid>
             <pubDate>Wed, 27 Jan 2016 10:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Cartu by BAC Mono]]></title>
-            <description><![CDATA[<article><h1>House Cartu by BAC Mono</h1><p>A fantastic piece of work from the creative minds at BAC Mono.  The perfect blend of visible carbon, striking paint detail and the innovative use of matt panelling.  A design that you can look at for hours and hours!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c007579ca0628e26056beba953066b9539f5ea36.jpg"></article>]]></description>
-            <link>http://www.andrewlofthouse.com/f0a960f8-ba72-4a71-8232-0f612b70100d/index.html</link>
-            <guid isPermaLink="false">f0a960f8-ba72-4a71-8232-0f612b70100d</guid>
-            <pubDate>Wed, 27 Jan 2016 10:58:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
