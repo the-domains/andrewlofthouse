@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T14:14:09.238Z'
-dateModified: '2016-01-27T14:14:05.224Z'
+datePublished: '2016-02-01T16:42:06.206Z'
+dateModified: '2016-02-01T16:41:51.903Z'
 title: Union Jack by BAC Mono
 author: []
 sourcePath: _posts/2016-01-27-union-jack-by-bac-mono.md
