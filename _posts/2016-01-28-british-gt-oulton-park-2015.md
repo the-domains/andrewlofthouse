@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T10:46:26.848Z'
-dateModified: '2016-01-28T10:46:21.969Z'
+datePublished: '2016-02-01T16:41:24.339Z'
+dateModified: '2016-02-01T16:41:18.839Z'
 title: 'British GT, Oulton Park 2015'
 author: []
+sourcePath: _posts/2016-01-28-british-gt-oulton-park-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-british-gt-oulton-park-2015.md
-published: true
 url: british-gt-oulton-park-2015/index.html
 _type: Article
 
