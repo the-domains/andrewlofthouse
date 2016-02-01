@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:52:40.723Z'
-dateModified: '2016-01-27T10:52:36.910Z'
+datePublished: '2016-02-01T16:44:46.236Z'
+dateModified: '2016-02-01T16:44:31.387Z'
 title: 'International GT Open 2015 - Monza, Italy'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-monza-italy.md
