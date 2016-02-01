@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T11:01:44.984Z'
-dateModified: '2016-01-27T11:01:40.174Z'
+datePublished: '2016-02-01T16:50:14.781Z'
+dateModified: '2016-02-01T16:49:37.019Z'
 title: 'International GT Open 2015 - Paul Ricard, France'
 author: []
 sourcePath: _posts/2016-01-17-international-gt-open-2015-paul-ricard-france.md
