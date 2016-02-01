@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:53:24.962Z'
-dateModified: '2016-01-27T10:53:21.042Z'
+datePublished: '2016-02-01T16:46:08.752Z'
+dateModified: '2016-02-01T16:45:21.008Z'
 title: 'International GT Open 2015 - Spa-Francorchamps, Belgium'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-spa-francorchamps-belgium.md
