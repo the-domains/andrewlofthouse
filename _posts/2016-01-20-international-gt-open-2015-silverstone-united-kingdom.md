@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:55:21.972Z'
-dateModified: '2016-01-27T10:55:16.116Z'
+datePublished: '2016-02-01T16:48:08.062Z'
+dateModified: '2016-02-01T16:47:35.141Z'
 title: 'International GT Open 2015 - Silverstone, United Kingdom'
 author: []
 sourcePath: _posts/2016-01-20-international-gt-open-2015-silverstone-united-kingdom.md
