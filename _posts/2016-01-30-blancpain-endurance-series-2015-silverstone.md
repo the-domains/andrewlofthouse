@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T15:38:11.294Z'
-dateModified: '2016-01-30T15:38:09.431Z'
+datePublished: '2016-02-01T16:41:06.294Z'
+dateModified: '2016-02-01T16:41:00.363Z'
 title: Blancpain Endurance Series 2015 - Silverstone
 author: []
+sourcePath: _posts/2016-01-30-blancpain-endurance-series-2015-silverstone.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-blancpain-endurance-series-2015-silverstone.md
-published: true
 url: blancpain-endurance-series-2015-silverstone/index.html
 _type: Article
 
